@@ -31,7 +31,7 @@ Andreevskikh_project_training&generation.ipynb
 
 2. Только для генерации 
 
-Andreevskikh_project_training&generation.ipynb
+Andreevskikh_project_ONLY_generation.ipynb
 
 
 Для запуска обоих блокнотов нужны датасеты, сохранение параметров на ГуглДиск 
