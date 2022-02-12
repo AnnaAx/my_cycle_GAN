@@ -24,7 +24,7 @@ Anna_Andreevskikh_project_DeepLearningSchool_Advanced_autumn_2021
 Эта задача оказалась слишком сложна. 
 Хотя, возможно, длительное обучение и использование более крупного датасета решит эту проблему.
 
-Исходные датасеты здесь: hhttps://drive.google.com/drive/folders/1CJryy67BR9EM2qtLTE7TTc2Ltn60TTr7?usp=sharing
+Исходныq датасет овощей здесь: hhttps://drive.google.com/drive/folders/1CJryy67BR9EM2qtLTE7TTc2Ltn60TTr7?usp=sharing
 
 Сгенерированные картинки здесь: https://drive.google.com/drive/folders/1-yqyss1KINTcJ5pO4jeK3MaoBhSwUiMj?usp=sharing
 
