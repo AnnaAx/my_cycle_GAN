@@ -27,6 +27,13 @@ Anna_Andreevskikh_project_DeepLearningSchool_Advanced_autumn_2021
 Исходные датасеты здесь: hhttps://drive.google.com/drive/folders/1CJryy67BR9EM2qtLTE7TTc2Ltn60TTr7?usp=sharing
 
 Сгенерированные картинки здесь: https://drive.google.com/drive/folders/1-yqyss1KINTcJ5pO4jeK3MaoBhSwUiMj?usp=sharing
-Vegetables: https://drive.google.com/drive/folders/1qb5FrtVmA7IfnQmLVImK8S5BcG5dz51Z?usp=sharing
+
 ![01](https://user-images.githubusercontent.com/90407728/153718331-e9153ae6-5d9c-4e5a-befc-11438c28c3cc.jpg)
+![06](https://user-images.githubusercontent.com/90407728/153718406-c44a4b6f-3108-4e4c-85c5-a6b3b8edcbbe.jpg)
+
+![05](https://user-images.githubusercontent.com/90407728/153718391-a4248f6f-c2ea-46dd-adf1-a8701dda4f36.jpg)
+![04](https://user-images.githubusercontent.com/90407728/153718418-edc60746-e77e-40b3-9b84-58f2935c6166.jpg)
+
+
+
 
