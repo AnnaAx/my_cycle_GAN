@@ -25,9 +25,9 @@ Anna_Andreevskikh_project_DeepLearningSchool_Advanced_autumn_2021
 
 Инструкция.
 Загружено 2 блокнота:
-1. Для  обучения и генерации 
+1. Для  обучения
 
-Andreevskikh_project_training&generation.ipynb
+Andreevskikh_project_training.ipynb
 
 2. Только для генерации 
 
@@ -47,10 +47,13 @@ https://drive.google.com/drive/folders/1z7n9NChsgtCFeUKE4tt2I2DmJ28ccQy3?usp=sha
 
 hhttps://drive.google.com/drive/folders/1CJryy67BR9EM2qtLTE7TTc2Ltn60TTr7?usp=sharing
 
+Запускать все строки по порядку.
+
 
 Сгенерированные картинки овощей здесь: 
 
 https://drive.google.com/drive/folders/1-yqyss1KINTcJ5pO4jeK3MaoBhSwUiMj?usp=sharing
+
 
 ![01](https://user-images.githubusercontent.com/90407728/153718331-e9153ae6-5d9c-4e5a-befc-11438c28c3cc.jpg)
 ![06](https://user-images.githubusercontent.com/90407728/153718406-c44a4b6f-3108-4e4c-85c5-a6b3b8edcbbe.jpg)
