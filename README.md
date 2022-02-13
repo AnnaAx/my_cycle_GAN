@@ -50,7 +50,7 @@ hhttps://drive.google.com/drive/folders/1CJryy67BR9EM2qtLTE7TTc2Ltn60TTr7?usp=sh
 Запускать все строки по порядку.
 
 
-Сгенерированные картинки овощей здесь: 
+Сгенерированные картинки здесь: 
 
 https://drive.google.com/drive/folders/1-yqyss1KINTcJ5pO4jeK3MaoBhSwUiMj?usp=sharing
 
